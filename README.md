@@ -7,22 +7,35 @@ El "Juego Secreto" es un divertido juego de adivinanza en el que los jugadores i
 Cómo Jugar
 
 Al iniciar el juego, se generará un número secreto aleatorio dentro de un rango determinado (por defecto entre 1 y 10).
+
 El jugador debe ingresar su suposición.
+
 El juego proporcionará pistas indicando si el número secreto es mayor o menor que la suposición del jugador.
+
 El jugador continúa adivinando hasta que acierte el número secreto.
+
 Una vez que el jugador adivina correctamente, se le felicitará y se le dará la opción de jugar nuevamente.
 
 Características
 
 Generación aleatoria de números secretos.
+
 Pistas para ayudar al jugador a adivinar el número.
+
 Opción de cambiar el rango de números para aumentar la dificultad (por ejemplo, entre 1 y 100).
+
 Interfaz simple y fácil de usar.
+
 Tecnologías Utilizadas
+
 HTML
+
 CSS
+
 JavaScript
+
 Nota:
+
 Se incluyo la parte del código en donde se solicitaba que se complete la funcionalidad de implementar el número máximo de 
 intentos que el jugador puede tener antes de empezar un nuevo juego, esto se realizó con el objetivo de que el jugador no 
 se pase realizando n intentos en el caso que al juego se lo cambie por ejemplo adivinando el número del 1 al 100, el 

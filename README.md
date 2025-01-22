@@ -22,11 +22,21 @@ Tecnologías Utilizadas
 HTML
 CSS
 JavaScript
+Nota:
+Se incluyo la parte del código en donde se solicitaba que se complete la funcionalidad de implementar el número máximo de 
+intentos que el jugador puede tener antes de empezar un nuevo juego, esto se realizó con el objetivo de que el jugador no 
+se pase realizando n intentos en el caso que al juego se lo cambie por ejemplo adivinando el número del 1 al 100, el 
+número máximo de intentos se lo dejo en 3 intentos.
+
 Instalación
+
 Para jugar al "Juego Secreto", simplemente visita el siguiente enlace: https://jortiz112.github.io/Juego-Secreto-Julio-Ortiz/
 
 Contribuciones
+
 Si deseas contribuir al proyecto, siéntete libre de hacer un fork del repositorio y enviar un pull request con tus mejoras o sugerencias.
 
 Licencia
+
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
+

@@ -1,15 +1,19 @@
 Juego Secreto
 
 Descripción
+
 El "Juego Secreto" es un divertido juego de adivinanza en el que los jugadores intentan adivinar un número secreto generado aleatoriamente por el programa. Este juego es ideal para practicar habilidades de programación y lógica, así como para entretener a amigos y familiares. El objetivo es adivinar el número correcto en la menor cantidad de intentos posible.
 
 Cómo Jugar
+
 Al iniciar el juego, se generará un número secreto aleatorio dentro de un rango determinado (por defecto entre 1 y 10).
 El jugador debe ingresar su suposición.
 El juego proporcionará pistas indicando si el número secreto es mayor o menor que la suposición del jugador.
 El jugador continúa adivinando hasta que acierte el número secreto.
 Una vez que el jugador adivina correctamente, se le felicitará y se le dará la opción de jugar nuevamente.
+
 Características
+
 Generación aleatoria de números secretos.
 Pistas para ayudar al jugador a adivinar el número.
 Opción de cambiar el rango de números para aumentar la dificultad (por ejemplo, entre 1 y 100).

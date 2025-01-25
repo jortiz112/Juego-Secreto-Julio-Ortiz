@@ -46,7 +46,7 @@ es adivinar el número correcto en la menor cantidad de intentos posible.
 
 ## Nota:
 
-```
+```sh
 Se incluyo la parte del código en donde se solicitaba que se complete la funcionalidad de implementar
 el número máximo de intentos que el jugador puede tener antes de empezar un nuevo juego, esto se
 realizó con el objetivo de que el jugador no se pase realizando n intentos en el caso que al juego
@@ -57,7 +57,7 @@ en 3 intentos.
 
 ## Instalación
 
-```
+```sh
 Para jugar al "Juego Secreto", simplemente visita el siguiente enlace: 
 
 ```

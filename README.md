@@ -14,7 +14,7 @@ entretener a amigos y familiares. El objetivo es adivinar el número correcto en
 ```
 ## Cómo Jugar
 
-+ Al iniciar el juego, se generará un número secreto aleatorio dentro de un rango determinado (por defecto entre 1 y 10).
+- Al iniciar el juego, se generará un número secreto aleatorio dentro de un rango determinado (por defecto entre 1 y 10).
 
 - El jugador debe ingresar su suposición.
 

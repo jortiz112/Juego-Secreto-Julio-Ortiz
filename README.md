@@ -53,7 +53,7 @@ número máximo de intentos se lo dejo en 3 intentos.
 Para jugar al "Juego Secreto", simplemente visita el siguiente enlace: 
 
 ```
-[Link a la página del Juego Secreto.](https://jortiz112.github.io/Juego-Secreto-Julio-Ortiz/)
+### [Link a la página para jugar el Juego Secreto.](https://jortiz112.github.io/Juego-Secreto-Julio-Ortiz/)
 
 ## Contribuciones
 

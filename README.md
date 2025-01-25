@@ -22,21 +22,21 @@ El "Juego Secreto" es un divertido juego de adivinanza en el que los jugadores i
 
 ## Características
 
-Generación aleatoria de números secretos.
+- Generación aleatoria de números secretos.
 
-Pistas para ayudar al jugador a adivinar el número.
+- Pistas para ayudar al jugador a adivinar el número.
 
-Opción de cambiar el rango de números para aumentar la dificultad (por ejemplo, entre 1 y 100).
+- Opción de cambiar el rango de números para aumentar la dificultad (por ejemplo, entre 1 y 100).
 
-Interfaz simple y fácil de usar.
+- Interfaz simple y fácil de usar.
 
-Tecnologías Utilizadas
+- Tecnologías Utilizadas
 
-HTML
+- HTML
 
-CSS
+- CSS
 
-JavaScript
+- JavaScript
 
 ## Nota:
 

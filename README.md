@@ -5,7 +5,7 @@ Juego Secreto
 
 ## Descripción
 
-```
+```sh
 
 El "Juego Secreto" es un divertido juego de adivinanza en el que los jugadores intentan adivinar un
 número secreto generado aleatoriamente por el programa. Este juego es ideal para practicar

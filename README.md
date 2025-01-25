@@ -2,7 +2,7 @@ Juego Secreto
 =============
 
 <p align="center">
-   <img src="https://jortiz112.github.io/Juego-Secreto-Julio-Ortiz/img.juego-secreto.png#vitrinedev/>
+   <img src="https://github.com/jortiz112/Juego-Secreto-Julio-Ortiz/blob/master/img/juego-secreto.png #vitrinedev/>
 </p>
 
 Descripción

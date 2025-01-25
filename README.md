@@ -9,15 +9,15 @@ El "Juego Secreto" es un divertido juego de adivinanza en el que los jugadores i
 
 ## Cómo Jugar
 
-Al iniciar el juego, se generará un número secreto aleatorio dentro de un rango determinado (por defecto entre 1 y 10).
+- Al iniciar el juego, se generará un número secreto aleatorio dentro de un rango determinado (por defecto entre 1 y 10).
 
-El jugador debe ingresar su suposición.
+- El jugador debe ingresar su suposición.
 
-El juego proporcionará pistas indicando si el número secreto es mayor o menor que la suposición del jugador.
+- El juego proporcionará pistas indicando si el número secreto es mayor o menor que la suposición del jugador.
 
-El jugador continúa adivinando hasta que acierte el número secreto.
+- El jugador continúa adivinando hasta que acierte el número secreto.
 
-Una vez que el jugador adivina correctamente, se le felicitará y se le dará la opción de jugar nuevamente.
+- Una vez que el jugador adivina correctamente, se le felicitará y se le dará la opción de jugar nuevamente.
 
 
 ## Características

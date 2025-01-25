@@ -19,6 +19,7 @@ El jugador continúa adivinando hasta que acierte el número secreto.
 
 Una vez que el jugador adivina correctamente, se le felicitará y se le dará la opción de jugar nuevamente.
 
+
 ## Características
 
 Generación aleatoria de números secretos.

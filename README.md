@@ -4,8 +4,6 @@ Juego Secreto
 <p align="center">
    <img src="/img/juego-secreto.png #vitrinedev/>
 </p>
-![This is an alt text.](/img/juego-secreto.png "This is a sample image.")
-
 
 Descripción
 ===========

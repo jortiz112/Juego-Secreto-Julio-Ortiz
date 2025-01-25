@@ -37,10 +37,13 @@ JavaScript
 
 ## Nota:
 
+```
 Se incluyo la parte del código en donde se solicitaba que se complete la funcionalidad de implementar el número máximo de 
 intentos que el jugador puede tener antes de empezar un nuevo juego, esto se realizó con el objetivo de que el jugador no 
 se pase realizando n intentos en el caso que al juego se lo cambie por ejemplo adivinando el número del 1 al 100, el 
 número máximo de intentos se lo dejo en 3 intentos.
+
+```
 
 ## Instalación
 

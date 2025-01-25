@@ -1,6 +1,10 @@
 Juego Secreto
 =============
 
+<p align="center">
+   <img src="http://img.juego-secreto.png#vitrinedev/>
+</p>
+
 Descripción
 ===========
 

@@ -58,7 +58,7 @@ Para jugar al "Juego Secreto", simplemente visita el siguiente enlace:
 
 ## Contribuciones
 
-Si deseas contribuir al proyecto, siéntete libre de hacer un fork del repositorio y enviar un pull request con tus mejoras o sugerencias.
+> Si deseas contribuir al proyecto, siéntete libre de hacer un fork del repositorio y enviar un pull request con tus mejoras o sugerencias.
 
 ## Licencia
 

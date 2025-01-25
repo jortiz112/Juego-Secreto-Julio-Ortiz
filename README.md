@@ -5,8 +5,7 @@ Juego Secreto
 
 El "Juego Secreto" es un divertido juego de adivinanza en el que los jugadores intentan adivinar un número secreto generado aleatoriamente por el programa. Este juego es ideal para practicar habilidades de programación y lógica, así como para entretener a amigos y familiares. El objetivo es adivinar el número correcto en la menor cantidad de intentos posible.
 
-Cómo Jugar
-==========
+## Cómo Jugar
 
 Al iniciar el juego, se generará un número secreto aleatorio dentro de un rango determinado (por defecto entre 1 y 10).
 
@@ -18,8 +17,7 @@ El jugador continúa adivinando hasta que acierte el número secreto.
 
 Una vez que el jugador adivina correctamente, se le felicitará y se le dará la opción de jugar nuevamente.
 
-Características
-===============
+## Características
 
 Generación aleatoria de números secretos.
 
@@ -37,26 +35,22 @@ CSS
 
 JavaScript
 
-Nota:
-=====
+## Nota:
 
 Se incluyo la parte del código en donde se solicitaba que se complete la funcionalidad de implementar el número máximo de 
 intentos que el jugador puede tener antes de empezar un nuevo juego, esto se realizó con el objetivo de que el jugador no 
 se pase realizando n intentos en el caso que al juego se lo cambie por ejemplo adivinando el número del 1 al 100, el 
 número máximo de intentos se lo dejo en 3 intentos.
 
-Instalación
-===========
+## Instalación
 
 Para jugar al "Juego Secreto", simplemente visita el siguiente enlace: https://jortiz112.github.io/Juego-Secreto-Julio-Ortiz/
 
-Contribuciones
-==============
+## Contribuciones
 
 Si deseas contribuir al proyecto, siéntete libre de hacer un fork del repositorio y enviar un pull request con tus mejoras o sugerencias.
 
-Licencia
-========
+## Licencia
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
 

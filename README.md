@@ -1,4 +1,4 @@
-# <h1 align="center"> Juego Secreto </h1>
+# <h1 align="center"> # Juego Secreto </h1>
 
 ![img](img/juego-secreto.png)
 

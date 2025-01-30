@@ -72,3 +72,9 @@ Para jugar al "Juego Secreto", simplemente visita el siguiente enlace:
 
 >>> Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
 
+## Autores del Proyecto
+
+>> ![img](img/Foto-Pequeña-julio.png)    Programación JavaScript               
+
+                               
+>> ![img](img/alura-latam.png)  Programación HTML y CSS

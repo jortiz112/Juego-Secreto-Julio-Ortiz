@@ -1,5 +1,4 @@
-Juego Secreto
-=============
+# <h1 align="center"> Juego Secreto </h1>
 
 ![img](img/juego-secreto.png)
 
@@ -21,7 +20,9 @@ es adivinar el número correcto en la menor cantidad de intentos posible.
 
 - El juego proporcionará pistas indicando si el número secreto es mayor o menor que la suposición del jugador.
 
-- El jugador continúa adivinando hasta que acierte el número secreto.
+- El jugador tiene 3 intentos únicamente para adivinar el número.
+
+- El jugador continúa adivinando hasta que acierte el número secreto en sus tres intento, caso contrario empezará un nuevo juego.
 
 - Una vez que el jugador adivina correctamente, se le felicitará y se le dará la opción de jugar nuevamente.
 

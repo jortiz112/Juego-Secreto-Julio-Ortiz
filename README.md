@@ -1,8 +1,14 @@
-# <h1 align="center"> Juego Secreto </h1>
+***
+---
+___
+# <h1 align="center"> ▶️Juego Secreto✍️ </h1>
+***
+---
+___
 
 ![img](img/juego-secreto.png)
 
-## Descripción
+## 📄Descripción
 
 ```sh
 
@@ -12,7 +18,7 @@ habilidades de programación y lógica, así como para entretener a amigos y fam
 es adivinar el número correcto en la menor cantidad de intentos posible.
 
 ```
-## Cómo Jugar
+## ▶️Cómo Jugar
 
 - Al iniciar el juego, se generará un número secreto aleatorio dentro de un rango determinado (por defecto entre 1 y 10).
 
@@ -27,7 +33,7 @@ es adivinar el número correcto en la menor cantidad de intentos posible.
 - Una vez que el jugador adivina correctamente, se le felicitará y se le dará la opción de jugar nuevamente.
 
 
-## Características
+## 📑Características
 
 - Generación aleatoria de números secretos.
 
@@ -39,13 +45,13 @@ es adivinar el número correcto en la menor cantidad de intentos posible.
 
 - Tecnologías Utilizadas
 
-- HTML
+✔️HTML
 
-- CSS
+✔️CSS
 
-- JavaScript
+✔️JavaScript
 
-## Nota:
+## 📝Nota:
 
 ```sh
 Se incluyo la parte del código en donde se solicitaba que se complete la funcionalidad de implementar
@@ -56,25 +62,26 @@ en 3 intentos.
 
 ```
 
-## Instalación
+## 💻Instalación
 
 ```sh
 Para jugar al "Juego Secreto", simplemente visita el siguiente enlace: 
 
 ```
-### [Link a la página para jugar el Juego Secreto https://jortiz112.github.io/Juego-Secreto-Julio-Ortiz/](https://jortiz112.github.io/Juego-Secreto-Julio-Ortiz/)
+### ***[Link a la página para jugar el Juego Secreto https://jortiz112.github.io/Juego-Secreto-Julio-Ortiz/](https://jortiz112.github.io/Juego-Secreto-Julio-Ortiz/ "Realizado por: Ing. Julio César Ortiz Pabón")***
 
-## Contribuciones
+## 🙏 Contribuciones
 
 >> Si deseas contribuir al proyecto, siéntete libre de hacer un fork del repositorio y enviar un pull request con tus mejoras o sugerencias.
 
-## Licencia
+## ®️Licencia
 
 >>> Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
 
-## Autores del Proyecto
+## 👩👨Autores del Proyecto
 
->> ![img](img/Foto-Pequeña-julio.png)    Programación JavaScript               
+>> ![img](img/Foto-Pequeña-julio.png "Ing. Julio César Ortiz Pabón")    Programación JavaScript 
+>                               
+>>> ![img](img/alura-latam.png)  Programación HTML y CSS
 
-                               
->> ![img](img/alura-latam.png)  Programación HTML y CSS
+

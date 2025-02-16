@@ -1,12 +1,8 @@
 ***
----
-___
 # <h1 align="center"> ▶️Juego Secreto✍️ </h1>
 ***
----
-___
 
-![img](img/juego-secreto.png)
+<br>![img](img/juego-secreto.png)
 
 ## 📄Descripción
 
